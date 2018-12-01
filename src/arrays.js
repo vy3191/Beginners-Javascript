@@ -1,5 +1,7 @@
 function empty() {
   //returns an empty array
+  let arr = [];
+  return arr;
 }
 
 function arrayLength() {

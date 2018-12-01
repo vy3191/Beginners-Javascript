@@ -6,6 +6,8 @@ function empty() {
 
 function arrayLength() {
   // it returns an array of length 5
+  let arr = ['venky','arjana','jana', 'mana', 'extemp'];
+  return arr;
 }
 
 function push() {
